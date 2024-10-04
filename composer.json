@@ -1,5 +1,5 @@
 {
-	"name": "mercadopago/sdk",
+	"name": "extlib-mercadopago/sdk",
 	"description": "MercadoPago SDK module for Payments integration.",
 	"keywords": ["mercadopago", "sdk"],
 	"authors": [

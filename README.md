@@ -16,7 +16,7 @@
 From command line
 
 ```
-composer require mercadopago/sdk:0.5.3
+composer require extlib-mercadopago/sdk:0.5.3
 ```
 
 As a dependency in your project's composer.json
@@ -24,7 +24,7 @@ As a dependency in your project's composer.json
 ```json
 {
     "require": {
-        "mercadopago/sdk": "0.5.3"
+        "extlib-mercadopago/sdk": "0.5.3"
     }
 }
 ```
