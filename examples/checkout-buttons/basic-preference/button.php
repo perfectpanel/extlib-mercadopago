@@ -9,7 +9,7 @@ $preference_data = array(
             "title" => "Title of what you are paying for",
             "currency_id" => "USD",
             "category_id" => "Category",
-            "quantity" => 1,
+            "quantity" =>  1,
             "unit_price" => 10.2
         )
     )
